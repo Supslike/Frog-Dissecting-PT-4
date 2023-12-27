@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Knewave&family=Modak&family=Poppins:wght@400;900&display=swap');
+
+span {
+    position: absolute; 
+    height: 800px; 
+    transform-origin: center bottom; 
+    transform: translate(45vh, -50px);
+    font-size: 75px;
+    font-family: Modak;
+    color: #99c875;
+    text-shadow: 5px 5px 10px rgba(0, 0, 0, 0.7);
+}
