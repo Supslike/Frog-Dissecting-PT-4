@@ -1,12 +1,14 @@
+/* Importing fonts from Google Fonts */
 @import url('https://fonts.googleapis.com/css2?family=Knewave&family=Modak&family=Poppins:wght@400;900&display=swap');
 
+/* Styling for the span element */
 span {
     position: absolute; 
     height: 800px; 
     transform-origin: center bottom; 
     transform: translate(45vh, -50px);
     font-size: 75px;
-    font-family: Modak;
+    font-family: Modak; /* Using the Modak font */
     color: #99c875;
-    text-shadow: 5px 5px 10px rgba(0, 0, 0, 0.7);
+    text-shadow: 5px 5px 10px rgba(0, 0, 0, 0.7); /* Adding a text shadow for better visibility */
 }
